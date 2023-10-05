@@ -213,7 +213,7 @@ void prendeDigito(int digito)
 ```
 
 ## Link del proyecto :vertical_traffic_light:
-* [proyecto](https://www.tinkercad.com/things/dgq2oux0nnQ?sharecode=_1RQx2QgV9fmdtxc5UsD5-yn9UekD7Xsmg8jOOh2Lts)
+* [proyecto]([https://www.tinkercad.com/things/dgq2oux0nnQ?sharecode=_1RQx2QgV9fmdtxc5UsD5-yn9UekD7Xsmg8jOOh2Lts](https://www.tinkercad.com/things/am3DxCe5raq-copy-of-smashing-crift/editel?tenant=circuits))
 
 
 ## Fuentes
